@@ -6,3 +6,5 @@ npm-debug.log
 1.js
 logo.png
 .travis.yml
+util/
+.github/
